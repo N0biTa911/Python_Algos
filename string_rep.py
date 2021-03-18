@@ -1,3 +1,4 @@
+#this program takes a string as an input and performs P&C on the input
 a = input("Enter the string:")
 
 s = []
