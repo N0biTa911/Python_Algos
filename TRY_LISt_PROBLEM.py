@@ -1,3 +1,4 @@
+#gives all P&C as a list
 s = {1, 2, 4, 5, 6, 7, 10}
 
 initial = list(s)
